@@ -1,0 +1,18 @@
+h1. ToWorksheet
+
+Generate a worksheet from an array.
+
+h2. Installation
+
+pre. gem install to_worksheet
+
+h2. Example
+
+h2. Maintainers
+
+* Fabrício Campos ("github.com/FabricioFFC":http://github.com/FabricioFFC)
+
+h2. How to collaborate
+
+If you would collaborate, you can create a fork, apply the modification and submit a pull request :)
+
