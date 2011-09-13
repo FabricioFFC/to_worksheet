@@ -9,6 +9,9 @@ pre. gem install to_worksheet
 h2. Example
 
 pre. 
+  require 'rubygems'
+  require 'to_worksheet'
+  
   my_array = [['apple', 1], ['orange', 0.5], ['pineapple', 2], ['watermelon', 3]]
   worksheet = my_array.to_worksheet(:header => ['fruit', 'price'], :name => 'Price List')
   file  = File.new("/tmp/worksheet.xls", "w")
